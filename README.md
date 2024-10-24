@@ -5,8 +5,8 @@
 
 <div>
     <a href="https://github.com/rdoois">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdoois&show_icons=true&theme=transparent"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdoois&show_icons=true&theme=transparent&layout=compact"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rdoois&show_icons=true&theme=transparent"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdoois&show_icons=true&theme=transparent&layout=compact"/>
     </a>
 </div>
 
