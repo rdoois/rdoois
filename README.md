@@ -1,4 +1,4 @@
-## Hi there! I'm Renato Oliveira aka rdoois 👋
+## Hi there! I'm Renato Oliveira AKA rdoois 👋
 
 - 🔭 I'm currently working on backend, using Go and Java
 - 🌱 I’m currently studying <a href="https://github.com/rdoois/leetcode">how to solve Leetcode problems</a>
