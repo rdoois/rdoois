@@ -8,6 +8,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdoois&show_icons=true&theme=transparent&layout=compact"/>
 </div>
 
+<br>
 <div style="display: inline_block">
     <img align="center" alt="rdoois-go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
     <img align="center" alt="rdoois-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
