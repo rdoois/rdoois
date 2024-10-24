@@ -21,7 +21,6 @@
   <img align="center" alt="rdoois-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
 
-![Snake animation](https://github.com/rdoois/rdoois/blob/output/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rdoois/rdoois/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/rdoois/rdoois/blob/output/github-contribution-grid-snake.svg" />
