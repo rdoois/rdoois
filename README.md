@@ -3,12 +3,10 @@
 - 🔭 I'm currently working on backend, using Go and Java
 - 🌱 I’m currently studying <a href="https://github.com/rdoois/leetcode">how to solve Leetcode problems</a>
 
-<a href="https://github.com/rdoois">
-    <div>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rdoois&show_icons=true&theme=transparent"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdoois&show_icons=true&theme=transparent&layout=compact"/>
-    </div>
-</a>
+<div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rdoois&show_icons=true&theme=transparent"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdoois&show_icons=true&theme=transparent&layout=compact"/>
+</div>
 
 <div style="display: inline_block">
     <img align="center" alt="rdoois-go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
