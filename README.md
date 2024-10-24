@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! I'm Renato Oliveira aka rdoois 👋
 
-<!--
-**rdoois/rdoois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on backend, using Go and Java
+- 🌱 I’m currently studying again about DSA and how to solve Leetcode problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://github.com/rdoois">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdoois&show_icons=true&theme=transparent"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdoois&show_icons=true&theme=transparent&layout=compact"/>
+    </a>
+</div>
+
+![Snake animation](https://github.com/rdoois/rdoois/blob/output/github-contribution-grid-snake.svg)
