@@ -1,7 +1,7 @@
 ## Hi there! I'm Renato Oliveira aka rdoois 👋
 
 - 🔭 I'm currently working on backend, using Go and Java
-- 🌱 I’m currently studying again about DSA and how to solve Leetcode problems
+- 🌱 I’m currently studying how to solve Leetcode problems
 
 <div>
     <a href="https://github.com/rdoois">
