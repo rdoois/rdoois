@@ -5,7 +5,7 @@
 
 <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rdoois&show_icons=true&theme=transparent&rank_icon=github"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdoois&show_icons=true&theme=transparent&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdoois&show_icons=true&theme=transparent&layout=compact&cache_seconds=21600"/>
 </div>
 
 <br>
@@ -14,10 +14,11 @@
     <img align="center" alt="rdoois-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" alt="rdoois-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="center" alt="rdoois-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="rdoois-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
     <img align="center" alt="rdoois-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="rdoois-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="rdoois-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
+</div>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rdoois/rdoois/blob/output/github-contribution-grid-snake-dark.svg" />
