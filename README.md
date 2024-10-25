@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying <a href="https://github.com/rdoois/leetcode">how to solve Leetcode problems</a>
 
 <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rdoois&show_icons=true&theme=transparent&rank_icon=github&custom_title=GitHub Stats"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rdoois&show_icons=true&theme=transparent&rank_icon=github"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdoois&show_icons=true&theme=transparent&layout=compact"/>
 </div>
 
